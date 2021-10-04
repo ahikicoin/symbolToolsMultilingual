@@ -1,6 +1,10 @@
 # Introduction
 
-This project is for multilingualization of symbols-tools.com applications.
+This project is for multilingualization of symbols-tools.com applications.  
+　Tool URL： https://symbol-tools.com/symbolTools/view/tool/nodeList.html
+
+※Global Site： https://symbol-tools.com/
+
 
 # Folder structure
 
