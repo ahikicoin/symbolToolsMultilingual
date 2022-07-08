@@ -21,3 +21,5 @@ This project is for multilingualization of symbols-tools.com applications.
       |-- app_**.properties                           *Individual configuration file. [locale] language file.  
       |-- appMessages.properties                      *Messages configuration file. Default language file.(English)  
       |-- appMessages_**.properties                   *Messages configuration file. [locale] language file.  
+
+    SmartPhoneApps/                                   *Symbol Node List language files for smartphone applications.
